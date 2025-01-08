@@ -1,8 +1,8 @@
 ﻿# uasvelostaproject
 Team Velosta :
-- Agus Saputra Hamzah
-- Alifa Nur Azizah
-- Khairan Noor Fadhillah
+- Agus Saputra Hamzah - 2310120018
+- Alifa Nur Azizah - 2310120002
+- Khairan Noor Fadhillah - 2310120022
 
 Velosta adalah sebuah platform marketplace berbasis website yang menawarkan solusi mudah dan praktis bagi pengguna untuk menjual dan membeli sepatu secara online. Aplikasi Web ini dirancang dengan fokus pada pengorganisasian produk berdasarkan kategori, sehingga pengguna dapat menemukan sepatu yang sesuai dengan kebutuhan mereka dengan lebih terstruktur dan efisien.
 
