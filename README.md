@@ -15,7 +15,7 @@ Velosta adalah platform marketplace berbasis web yang dirancang untuk memudahkan
 - **Pemberian Kategori:** Informasi status pengiriman pada produk yang dipesan.  
 
 ## **Ketentuan Projek**
-- **Menggunakan pendekatan OOP.**
+- **Menggunakan pendekatan OOP.✅**
 - **Fitur CRUD pada multiple tables (minimal 2 table).✅** 
 - **Fungsi validasi dan error handling.✅**
 - **Fitur session dan/atau cookies✅**
