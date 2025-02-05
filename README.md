@@ -1,10 +1,6 @@
 # Velosta - Marketplace Sepatu  
 
 Velosta adalah platform marketplace berbasis web yang dirancang untuk memudahkan transaksi jual beli sepatu secara online. Aplikasi ini menawarkan fitur lengkap untuk pembeli, dengan tujuan menciptakan pengalaman belanja yang aman, nyaman, dan efisien.  
-## **Tim**
-- Agus Saputra Hamzah (2310120018)
-- Alifa Nur Azizah (2310120002)
-- Khairan Noord Fadhillah (2310120022)
 
 ## **Fitur Utama**  
 - **Pembagian Produk:** Produk dikelompokkan berdasarkan kategori tertentu untuk mempermudah pembeli melakukan pembelian.  
